@@ -6,6 +6,7 @@ import { motion } from "motion/react";
 import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
+import { ModeToggle } from "@/components/theme-toggle";
 
 const navLinks = [
     { href: "/", label: "Home" },
@@ -59,6 +60,10 @@ export function Navigation() {
                                     {link.label}
                                 </Link>
                             ))}
+
+                        </div>
+                        <div className="ml-2">
+                            <ModeToggle />
                         </div>
                     </motion.div>
 
@@ -105,7 +110,11 @@ export function Navigation() {
                         </motion.div>
                     ))}
                 </div>
+
+                <div className="absolute bottom-8 left-0 right-0 flex justify-center">
+                    <ModeToggle />
+                </div>
             </motion.div>
-        </header>
+        </header >
     );
 }
