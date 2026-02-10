@@ -8,8 +8,8 @@ export const projects: Project[] = [
         category: "AI Development",
         year: "2025",
         featured: true,
-        heroImage: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.01.53 PM.png",
-        thumbnailImage: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.01.53 PM.png",
+        heroImage: "/projects/victoria-tours/email-page.png",
+        thumbnailImage: "/projects/victoria-tours/email-page.png",
         description:
             "I engineered a custom AI CRM for Victoria Tours to centralize operations across 10 offices. Using Next.js, MongoDB, and Google Gemini, I automated support tickets and streamlined logistics for staff and travel agents. The system, scaled on AWS (EC2, SQS) to handle 100,000+ daily emails, empowered 50+ active users to manage complex tour data efficiently. This transformation reduced customer response times by 60% and digitized the entire recruitment and ticketing lifecycle.",
         role: "Lead AI Engineer | Next.js | AWS | Gemini API | Node.js | MongoDB",
@@ -17,22 +17,22 @@ export const projects: Project[] = [
         client: "Victoria Tours",
         images: [
             {
-                src: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.01.53 PM.png",
+                src: "/projects/victoria-tours/email-page.png",
                 alt: "Victoria Tours AI CRM Email Page",
                 caption: "Email Page",
             },
             {
-                src: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.02.11 PM.png",
+                src: "/projects/victoria-tours/tickets-dashboard.png",
                 alt: "Tickets Dashboard",
                 caption: "Tickets Dashboard",
             },
             {
-                src: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.02.20 PM.png",
+                src: "/projects/victoria-tours/ticket-page.png",
                 alt: "Ticket Page",
                 caption: "Ticket Page",
             },
             {
-                src: "/projects/ai crm -images/Screenshot 2026-01-16 at 4.02.44 PM.png",
+                src: "/projects/victoria-tours/main-dashboard.png",
                 alt: "Main Dashboard",
                 caption: "Main Dashboard",
             },
