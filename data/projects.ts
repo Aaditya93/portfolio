@@ -8,8 +8,8 @@ export const projects: Project[] = [
         category: "AI Development",
         year: "2025",
         featured: true,
-        heroImage: "/projects/victoria-tours/email-page.png",
-        thumbnailImage: "/projects/victoria-tours/email-page.png",
+        heroImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/email-page.png",
+        thumbnailImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/email-page.png",
         description:
             "I engineered a custom AI CRM for Victoria Tours to centralize operations across 10 offices. Using Next.js, MongoDB, and Google Gemini, I automated support tickets and streamlined logistics for staff and travel agents. The system, scaled on AWS (EC2, SQS) to handle 100,000+ daily emails, empowered 50+ active users to manage complex tour data efficiently. This transformation reduced customer response times by 60% and digitized the entire recruitment and ticketing lifecycle.",
         role: "Lead AI Engineer | Next.js | AWS | Gemini API | Node.js | MongoDB",
@@ -17,22 +17,22 @@ export const projects: Project[] = [
         client: "Victoria Tours",
         images: [
             {
-                src: "/projects/victoria-tours/email-page.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/email-page.png",
                 alt: "Victoria Tours AI CRM Email Page",
                 caption: "Email Page",
             },
             {
-                src: "/projects/victoria-tours/tickets-dashboard.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/tickets-dashboard.png",
                 alt: "Tickets Dashboard",
                 caption: "Tickets Dashboard",
             },
             {
-                src: "/projects/victoria-tours/ticket-page.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/ticket-page.png",
                 alt: "Ticket Page",
                 caption: "Ticket Page",
             },
             {
-                src: "/projects/victoria-tours/main-dashboard.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-tours/main-dashboard.png",
                 alt: "Main Dashboard",
                 caption: "Main Dashboard",
             },
@@ -49,8 +49,8 @@ export const projects: Project[] = [
         category: "AI Development",
         year: "2026",
         featured: true,
-        heroImage: "/projects/victoria-visa-automation/hero.png",
-        thumbnailImage: "/projects/victoria-visa-automation/dashboard.png",
+        heroImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/hero.png",
+        thumbnailImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/dashboard.png",
         description:
             "I engineered a high-scale visa automation platform handling 10,000+ monthly applications. Using Next.js and Google Gemini Vision, I built a system that extracts user data from documents, reducing manual entry by 95%. This efficiency gain allowed the client to scale operations significantly, directly driving $1M+ in annual revenue. The architecture utilizes AWS for reliability and MongoDB for data management, ensuring zero downtime during peak processing.",
         role: "AI Engineer | Next.js | MongoDB | AWS | Gemini API | Computer Vision",
@@ -58,27 +58,27 @@ export const projects: Project[] = [
         client: "Victoria Tours",
         images: [
             {
-                src: "/projects/victoria-visa-automation/hero.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/hero.png",
                 alt: "Victoria Tours Visa Automation Homepage",
                 caption: "Automation Homepage",
             },
             {
-                src: "/projects/victoria-visa-automation/dashboard.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/dashboard.png",
                 alt: "Main Dashboard",
                 caption: "Operational Dashboard",
             },
             {
-                src: "/projects/victoria-visa-automation/ocr-process.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/ocr-process.png",
                 alt: "AI Document Processing",
                 caption: "AI-Powered Document Extraction",
             },
             {
-                src: "/projects/victoria-visa-automation/analytics.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/analytics.png",
                 alt: "Analytics View",
                 caption: "Performance Metrics",
             },
             {
-                src: "/projects/victoria-visa-automation/results.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/victoria-visa-automation/results.png",
                 alt: "Visa Processing Results",
                 caption: "Final Generated Documents",
             },
@@ -94,8 +94,8 @@ export const projects: Project[] = [
         category: "AI Development",
         year: "2026",
         featured: true,
-        heroImage: "/projects/makemypackages/hero.png",
-        thumbnailImage: "/projects/makemypackages/thumbnail.png",
+        heroImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/hero.png",
+        thumbnailImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/thumbnail.png",
         description:
             "Engineered MakeMyPackages, a production AI travel platform that boosted conversion rates by 60%. Built a 'Smart Travel Expert' using LangChain & Google Gemini for personalized planning. Developed a scalable app with Next.js 15, TypeScript, MongoDB, & AWS S3. Created pipelines for dynamic PDF itinerary generation & automated Resend emails. Integrated secure NextAuth v5, admin dashboard, & real-time currency APIs.",
         role: "AI Engineer | Next.js 15 | LangChain | Google Gemini | AWS S3 | TypeScript | Full Stack",
@@ -103,22 +103,22 @@ export const projects: Project[] = [
         client: "MakeMyPackages",
         images: [
             {
-                src: "/projects/makemypackages/hero.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/hero.png",
                 alt: "MakeMyPackages Homepage",
                 caption: "AI-powered travel platform homepage",
             },
             {
-                src: "/projects/makemypackages/dashboard.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/dashboard.png",
                 alt: "Admin Dashboard",
                 caption: "Comprehensive admin dashboard for managing bookings",
             },
             {
-                src: "/projects/makemypackages/ai-agent.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/ai-agent.png",
                 alt: "Smart Travel Expert AI Agent",
                 caption: "AI chatbot for personalized travel recommendations",
             },
             {
-                src: "/projects/makemypackages/itinerary.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/makemypackages/itinerary.png",
                 alt: "Dynamic Itinerary Generation",
                 caption: "Automated PDF itinerary generation system",
             },
@@ -141,8 +141,8 @@ export const projects: Project[] = [
         category: "AI App Development",
         year: "2026",
         featured: true,
-        heroImage: "/projects/swiftvisa/hero.png",
-        thumbnailImage: "/projects/swiftvisa/dashboard.png",
+        heroImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/hero.png",
+        thumbnailImage: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/dashboard.png",
         description:
             "Developed SwiftVisa, a high-performance visa processing platform. Built with Next.js 15 and Google Gemini 1.5 Flash, it features automated passport OCR that eliminates manual data entry. The system offers robust Role-Based Access Control (RBAC) for applicants and agents, secure document storage via AWS S3, and async processing with AWS SQS. Integrated with Razorpay and Resend, this solution streamlines global travel documentation with enterprise-grade security and scalability.",
         role: "AI Engineer | Next.js 15 | Google Gemini | AWS | Full Stack Dev",
@@ -150,27 +150,27 @@ export const projects: Project[] = [
         client: "SwiftVisa",
         images: [
             {
-                src: "/projects/swiftvisa/hero.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/hero.png",
                 alt: "SwiftVisa Login Screen",
                 caption: "Secure Authentication & Login",
             },
             {
-                src: "/projects/swiftvisa/dashboard.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/dashboard.png",
                 alt: "SwiftVisa Dashboard",
                 caption: "Agent Dashboard with Analytics",
             },
             {
-                src: "/projects/swiftvisa/ocr-process.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/ocr-process.png",
                 alt: "OCR Processing",
                 caption: "AI-Powered Passport OCR",
             },
             {
-                src: "/projects/swiftvisa/mobile-view.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/mobile-view.png",
                 alt: "Mobile Responsive View",
                 caption: "Fully Responsive Mobile Interface",
             },
             {
-                src: "/projects/swiftvisa/admin-panel.png",
+                src: "https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/swiftvisa/admin-panel.png",
                 alt: "Admin Panel",
                 caption: "Comprehensive Admin Controls",
             },
