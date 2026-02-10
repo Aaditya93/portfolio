@@ -21,7 +21,7 @@ export function AboutSection() {
                     >
                         <div className="relative aspect-[4/5] rounded-2xl overflow-hidden bg-muted">
                             <Image
-                                src="https://travel-images1234.s3.ap-south-1.amazonaws.com/aaditya.jpg"
+                                src="https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/aaditya.jpg"
                                 alt="Aaditya Shewale"
                                 fill
                                 className="object-cover transition-transform duration-500 hover:scale-105"
