@@ -86,7 +86,7 @@ export function AboutSection() {
 
                         <div className="pt-8">
                             <Button asChild className="group">
-                                <a href="https://travel-images1234.s3.ap-south-1.amazonaws.com/projects/Aaditya+Resume+-3.pdf" download="Aaditya_Shewale_Resume.pdf">
+                                <a href="https://travel-images1234.s3.ap-south-1.amazonaws.com/Aaditya+Resume+-+USA-2.pdf" download="Aaditya_Shewale_Resume.pdf">
                                     Download Resume
                                     <Download className="ml-2 h-4 w-4 transition-transform group-hover:translate-y-1" />
                                 </a>
